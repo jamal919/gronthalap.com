@@ -12,4 +12,4 @@ title: আমাদের জানান
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-comments" data-href="http://gronthalap.com/feedback/" data-numposts="2"></div>
+<div class="fb-comments" data-href="http://gronthalap.com/feedback/" data-numposts="5"></div>
