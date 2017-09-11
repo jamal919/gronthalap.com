@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
-title: ক্যাটাগরি
+permalink: /writers/
+title: লেখক
 ---
 <div id="archives">
 {% for category in site.categories %}
