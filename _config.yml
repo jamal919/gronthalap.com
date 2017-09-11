@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://gronthalap.com" # the base hostname & protocol for your site
 #twitter_username: JAlexBranham
 #github_username:  jabranham
-permalink: /:categories/:title.html
+permalink: /:title.html
 gems:
   - jekyll-sitemap
 
