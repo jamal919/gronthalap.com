@@ -1,0 +1,18 @@
+
+mainmenu:
+  home:
+    url: "/"
+    text: "নীড়পাতা"
+    icon_class: "fa-home"
+  writers:
+    url: "/pages/writers.md"
+    text: "লেখক"
+    icon_class: "fa-home"
+  aboutme:
+    url: "/pages/about.md"
+    text: "আমাদের জানুন"
+    icon_class: "fa-info-circle"
+  feedback:
+    url: "/pages/feedback.md"
+    text: "ফীডব্যাক"
+    icon_class: "fa-info-circle"
