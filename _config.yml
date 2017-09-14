@@ -1,11 +1,11 @@
 # Site settings
-title: Rifyll
-email: somename@somedomain.com
-description: "Just Another Jekyll Theme"
+title: গ্রন্থালাপ
+email: gronthalap@gmail.com
+description: "আমাদের চোখে আমাদের বই"
 logo_location: "https://placeholdit.imgix.net/~text?txtsize=30&bg=F8F8F8&txtclr=002E62&txt=LOGO&w=100&h=100"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "" # the base hostname & protocol for your site
+url: "gronthalap.com" 
 
 # Build settings
 markdown: kramdown
