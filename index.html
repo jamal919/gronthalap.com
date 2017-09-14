@@ -22,17 +22,17 @@ date: 2014-10-19 23:51
   		  </small>
            </div>
   		    <div class="margin10">
+			<small> 
+				<i class="fa fa-user"></i>
+                {% for category in post.categories %}
+                  <span class="label label-tag">{{category}}</span>
+                {% endfor %}
+            </small>
             <small>
               <i class="fa fa-tag"></i>
               {% for tag in post.tags %}
                 <span class="label label-tag">{{tag}}</span>
               {% endfor %}
-            </small>
-            <small> 
-				<i class="fa fa-user"></i>
-                {% for category in post.categories %}
-                  <span class="label label-tag">{{category}}</span>
-                {% endfor %}
             </small>
           </div>
           {% if post.thumbnail %}
