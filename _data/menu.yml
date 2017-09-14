@@ -2,9 +2,9 @@
 mainmenu:
   home:
     url: "/"
-    text: "Home"
+    text: "নীড়পাতা"
     icon_class: "fa-home"
   aboutme:
-    url: "/about/"
-    text: "About Me"
+    url: "/pages/about.html"
+    text: "আমাদের জানুন"
     icon_class: "fa-info-circle"
