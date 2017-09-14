@@ -15,7 +15,7 @@ highlighter: rouge
 #Other Global Configuration
 exclude: ['README.md']
 
-excerpt_separator: <!--more-->
+excerpt_separator: <!--বাকিঅংশ পড়ুন-->
 
 #show the jumbotron header on index page
 show_blog_header: true
