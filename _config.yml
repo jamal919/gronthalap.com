@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
 logo_location: "https://placeholdit.imgix.net/~text?txtsize=30&bg=F8F8F8&txtclr=002E62&txt=LOGO&w=100&h=100"
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://gronthalap.com" # the base hostname & protocol for your site
-permalink: /:title.html
-gems:
-  - jekyll-sitemap
+#permalink: /:title.html
+#gems:
+#  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
