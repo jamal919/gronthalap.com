@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way
-category: Haector Garcaia, Francesc Miralles, Charlotte Whittle
+title: The Book of Ichigo Ichie - The Art of Making the Most of Every Moment, the Japanese Way
+category: Haector Garcaia
 tags: [Philosophy]
 ---
 
